@@ -8,7 +8,7 @@ function getProblemIdFromUrl(urlPath) {
   return null;
 }
 
-// Create the timer UI container and controls
+// the timer UI container and controls
 function createTimerUI() {
   const container = document.createElement("div");
   container.style.position = "absolute";
